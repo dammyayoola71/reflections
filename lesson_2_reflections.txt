@@ -1,1 +1,3 @@
 what happens when you initialize a repository? why do you need to o it?
+
+staging area is a temporary directory or area where your files are added before they are committed.
