@@ -3,3 +3,7 @@ what happens when you initialize a repository? why do you need to o it?
 staging area is a temporary directory or area where your files are added before they are committed.
 
 enjoying commit tutorial
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+by adding the files individually to staging area
