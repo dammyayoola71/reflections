@@ -1,0 +1,1 @@
+what happens when you initialize a repository? why do you need to o it?

@@ -1,0 +1,3 @@
+it helped me see clearly the new codes I added and was able to trace the error made.
+saved time by comparing only what has changed from the old version instead of having to scan through several lines of codes.
+Identify bugs and help me reverse to previous codes easily 
